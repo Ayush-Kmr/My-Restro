@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Ayush-Kmr/My-Restro/static/css/main.83f0a929.css",
+    "main.js": "/Ayush-Kmr/My-Restro/static/js/main.044f8cea.js",
+    "static/js/787.7e5a4252.chunk.js": "/Ayush-Kmr/My-Restro/static/js/787.7e5a4252.chunk.js",
+    "static/media/pizza.jpg": "/Ayush-Kmr/My-Restro/static/media/pizza.beb988c8a812e6be9a20.jpg",
+    "static/media/chola.jpg": "/Ayush-Kmr/My-Restro/static/media/chola.c74e8541645e50eabd13.jpg",
+    "static/media/sweet.jpg": "/Ayush-Kmr/My-Restro/static/media/sweet.9641a43b567a720ba27c.jpg",
+    "static/media/nonvegthali.jpg": "/Ayush-Kmr/My-Restro/static/media/nonvegthali.317b9ed5f681ab5e9cd8.jpg",
+    "static/media/allupakoida.jpg": "/Ayush-Kmr/My-Restro/static/media/allupakoida.19bb4bd0337caa209c6a.jpg",
+    "static/media/samosa.jpg": "/Ayush-Kmr/My-Restro/static/media/samosa.31e4f81f8a14da5f7799.jpg",
+    "static/media/rajmarice.jpg": "/Ayush-Kmr/My-Restro/static/media/rajmarice.1808a67652826eb3eac2.jpg",
+    "static/media/maggi.jpg": "/Ayush-Kmr/My-Restro/static/media/maggi.d51edea3324ffc85ac3d.jpg",
+    "static/media/corn.jpg": "/Ayush-Kmr/My-Restro/static/media/corn.8f92996cf53ac99ba914.jpg",
+    "static/media/logo.svg": "/Ayush-Kmr/My-Restro/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Ayush-Kmr/My-Restro/index.html",
+    "main.83f0a929.css.map": "/Ayush-Kmr/My-Restro/static/css/main.83f0a929.css.map",
+    "main.044f8cea.js.map": "/Ayush-Kmr/My-Restro/static/js/main.044f8cea.js.map",
+    "787.7e5a4252.chunk.js.map": "/Ayush-Kmr/My-Restro/static/js/787.7e5a4252.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83f0a929.css",
+    "static/js/main.044f8cea.js"
+  ]
+}
